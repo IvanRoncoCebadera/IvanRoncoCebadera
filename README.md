@@ -11,9 +11,8 @@
 # 1.Presentación
 Hola a todos, mi nombre es ***Iván Ronco Cebadera***. Soy un alumno del instituto ***IES Luis vives***, en el cual estoy cursando actualmente el módulo ***1ºDAM***. 
 
-<center>
-    <img src="octogato.png" width="350px" height="350px">
-</center>
+![octogato](https://user-images.githubusercontent.com/113459253/196044366-469367f3-e3e8-47e7-8003-681b254a5e30.png)
+
 
 Acerca de mí, la verdad es que no hay mucho que pueda comentar, me gusta programar (aunque por ahora solo soy capaz de hacer programas simples en kotlin, sin embargo, de aquí hacía adelante solo ire hacía arriba) y los sistemas informáticos en general. 
 
@@ -44,6 +43,5 @@ Como actualmente estoy en proceso de aprendizaje, no tengo ningún tipo de exper
 [![imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0isBhh4GH3aDi2vho5wZRPljuOtASGoHo_ibBh96Ojn75eXxZf1SbgFLXvpTKMPstVo&usqp=CAU)](https://www.linkedin.com/in/iván-ronco-cebadera-1590bb250/)
 
 # 5.Hasta pronto
-<center>
-    <img src="original.gif" width="500px" height="350px">
-</center>
+![original](https://user-images.githubusercontent.com/113459253/196044388-6ca6f93d-1067-4f48-8c4c-c0233dac56f5.gif)
+
