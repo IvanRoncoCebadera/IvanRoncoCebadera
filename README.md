@@ -48,7 +48,7 @@ Como actualmente estoy en proceso de aprendizaje, no tengo ningún tipo de exper
 
 # 5.Hasta pronto
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/113459253/196044388-6ca6f93d-1067-4f48-8c4c-c0233dac56f5.gif" width="450px" height="450px">
+    <img src="https://user-images.githubusercontent.com/113459253/196044388-6ca6f93d-1067-4f48-8c4c-c0233dac56f5.gif" width="650px" height="450px">
 </p>
 
 
