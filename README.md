@@ -23,6 +23,12 @@ Acerca de mí, la verdad es que no hay mucho que pueda comentar, me gusta progra
 
 Respecto a hobbies, a parte de los videojuegos, que me gustan un montón, también voy algunos días de la semana al gim, me gusta bastante el anime y el manga,y también  me gusta dibujar en digital(normalmente sobre los animes o mangas que veo). Por último, respecto a lo que me gustaría hacer en el futuro, mi trabajo más deseado es ser desarrollador de videojuegos para alguna de las compañias que más me gustan, como por ejemplo Capcom (ya que la franquicía de videojuegos de Resident Evil y de Devil May Cry son de mis favoritas) o Nintendo (ya que todos los juegos que he probado de Pokemon, Zelda, Kirbi y Metroid, me gustan mucho), en general, me gustaría poder aportar al proceso de creación de las compañías que han hecho los juegos que me gustan, sería como un sueño cumplido.
 
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/113459253/196044303-b54fc27a-bee9-4283-ad29-19951723700f.gif" width="350px" height="350px">
+    <img src="https://user-images.githubusercontent.com/113459253/196044319-59811555-d281-4563-a61a-2c38d0ca4437.gif" width="350px" height="350px">
+</p>
+
 ![dante](https://user-images.githubusercontent.com/113459253/196044303-b54fc27a-bee9-4283-ad29-19951723700f.gif)
 ![cucui-cucui-ganon](https://user-images.githubusercontent.com/113459253/196044319-59811555-d281-4563-a61a-2c38d0ca4437.gif)
 
