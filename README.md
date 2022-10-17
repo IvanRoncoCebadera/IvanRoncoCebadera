@@ -9,7 +9,7 @@
 
 5.[***Hasta pronto***](#Hastapronto)
 # 1.Presentación
-Hola a todos, mi nombre es ***Iván Ronco Cebadera***. Soy un alumno del instituto ***IES Luis vives***, en el cual estoy cursando actualmente el módulo ***1ºDAM***. 
+Hola a todos, mi nombre es ***Iván Ronco Cebadera***😊. Soy un alumno del instituto [***IES Luis vives***](https://www.iesluisvives.es), en el cual estoy cursando actualmente el módulo ***1ºDAM***. 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/113459253/196044366-469367f3-e3e8-47e7-8003-681b254a5e30.png" width="250" height="250">
 </p>
