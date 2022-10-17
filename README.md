@@ -11,16 +11,15 @@
 # 1.Presentación
 Hola a todos, mi nombre es ***Iván Ronco Cebadera***. Soy un alumno del instituto ***IES Luis vives***, en el cual estoy cursando actualmente el módulo ***1ºDAM***. 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/113459253/196044366-469367f3-e3e8-47e7-8003-681b254a5e30.png" width="150" height="150">
+    <img src="https://user-images.githubusercontent.com/113459253/196044366-469367f3-e3e8-47e7-8003-681b254a5e30.png" width="250" height="250">
 </p>
-![octogato](https://user-images.githubusercontent.com/113459253/196044366-469367f3-e3e8-47e7-8003-681b254a5e30.png)
-
 
 Acerca de mí, la verdad es que no hay mucho que pueda comentar, me gusta programar (aunque por ahora solo soy capaz de hacer programas simples en kotlin, sin embargo, de aquí hacía adelante solo ire hacía arriba) y los sistemas informáticos en general. 
 
-<center>
+
+<p align="center">
     <img src="https://www.elsevier.com/__data/assets/image/0016/741121/Dia-Internacional-Sol1.jpg" width="600px" height="350px">
-</center>    
+</p>
 
 Respecto a hobbies, a parte de los videojuegos, que me gustan un montón, también voy algunos días de la semana al gim, me gusta bastante el anime y el manga,y por otra parte me gusta dibujar en digital. Por último, respecto a lo que me gustaría hacer en el futuro, mi trabajo más deseado es ser desarrollador de videojuegos para alguna de las compañias que más me gustan, como por ejemplo Capcom (ya que la franquicía de videojuegos de Resident Evil y de Devil May Cry son de mis favoritas) o Nintendo (ya que todos los juegos que he probado de Pokemon, Zelda, Kirbi y Metroid, me gustan mucho), en general, me gustaría poder aportar al proceso de creación de las compañías que han hecho los juegos que me gustan, sería como un sueño cumplido.
 
