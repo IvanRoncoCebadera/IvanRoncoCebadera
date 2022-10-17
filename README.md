@@ -47,5 +47,8 @@ Como actualmente estoy en proceso de aprendizaje, no tengo ningún tipo de exper
 [![imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0isBhh4GH3aDi2vho5wZRPljuOtASGoHo_ibBh96Ojn75eXxZf1SbgFLXvpTKMPstVo&usqp=CAU)](https://www.linkedin.com/in/iván-ronco-cebadera-1590bb250/)
 
 # 5.Hasta pronto
-![original](https://user-images.githubusercontent.com/113459253/196044388-6ca6f93d-1067-4f48-8c4c-c0233dac56f5.gif)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/113459253/196044388-6ca6f93d-1067-4f48-8c4c-c0233dac56f5.gif" width="450px" height="450px">
+</p>
+
 
