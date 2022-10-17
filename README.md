@@ -30,9 +30,8 @@ Respecto a hobbies, a parte de los videojuegos, que me gustan un montón, tambi�
 Como actualmente estoy en proceso de aprendizaje, no tengo ningún tipo de experiencia en el trabajo de programador..., pero con el tiempo voy a ir mejorando y me convertire en una buena opción para cualquiera que busque algún programador o desarrollador. 
 
 <p align="center">
-    <img src="[https://www.elsevier.com/__data/assets/image/0016/741121/Dia-Internacional-Sol1.jpg](https://user-images.githubusercontent.com/113459253/196044443-27a6a819-cc43-433f-8df7-5bb4188414a3.png)" width="600px" height="350px">
+    <img src="https://user-images.githubusercontent.com/113459253/196044443-27a6a819-cc43-433f-8df7-5bb4188414a3.png" width="600px" height="350px">
 </p>
-![descarga](https://user-images.githubusercontent.com/113459253/196044443-27a6a819-cc43-433f-8df7-5bb4188414a3.png)
 
 
 # 3.Tabla de wakatime e historial de commits
