@@ -1,13 +1,13 @@
 # Índice
 1. [***Presentación***](#Presentación)
 
-2. [***Experiencia laboral***](#Experiencia laboral)
+2. [***Experiencia laboral***](#Experiencia-laboral)
 
-3. [***Wakatime***](#Tabla de wakatime )
+3. [***Wakatime***](#Tabla-de-wakatime )
 
 4. [***Contactos***](#Contactos)
 
-5. [***Hasta pronto***](#Hasta pronto)
+5. [***Hasta pronto***](#Hasta-pronto)
 # Presentación
 Hola a todos, mi nombre es ***Iván Ronco Cebadera***😊. Soy un alumno del instituto [***IES Luis vives***](https://www.iesluisvives.es), en el cual estoy cursando actualmente el módulo ***1ºDAM***. 
 <p align="center">
