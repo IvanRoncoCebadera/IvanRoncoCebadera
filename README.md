@@ -1,5 +1,5 @@
 # Índice
-1.[***Presentación***](#1.Presentación)
+- [***Presentación***](#1.Presentación)
 
 2.[***Experiencia laboral***](#2.ExperienciaLaboral)
 
