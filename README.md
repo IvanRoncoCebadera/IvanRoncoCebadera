@@ -38,8 +38,8 @@ Como actualmente estoy en proceso de aprendizaje, no tengo ningún tipo de exper
 
 # 3.Tabla de wakatime e historial de commits
 <center>
-    <img src="https://wakatime.com/share/@f11c8048-330a-4e54-8654-1896e71ac8c8/654f2d04-099b-4bc8-93d6-7289555c62f2.svg">
-    <img src="https://wakatime.com/share/@f11c8048-330a-4e54-8654-1896e71ac8c8/4adeab22-7786-42e9-a4e9-31fd707cbfcb.svg">
+    <img src="https://wakatime.com/share/@f11c8048-330a-4e54-8654-1896e71ac8c8/f8de2cf9-b2e9-4f5b-9052-8211a2a61b0d.svg">
+    <img src="https://wakatime.com/share/@f11c8048-330a-4e54-8654-1896e71ac8c8/24e76195-d948-4a48-916e-3beebb976d7b.svg">
 </center>
 
 # 4.Contactos
