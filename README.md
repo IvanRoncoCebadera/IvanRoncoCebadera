@@ -11,16 +11,16 @@
 # Presentación
 ### Hola a todos, mi nombre es ***Iván Ronco Cebadera***😊. Soy un alumno del instituto [***IES Luis vives***](https://www.iesluisvives.es), en el cual estoy cursando actualmente el módulo ***1ºDAM***. 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/113459253/196044366-469367f3-e3e8-47e7-8003-681b254a5e30.png" width="250" height="250">
+    <img src="https://user-images.githubusercontent.com/113459253/196044366-469367f3-e3e8-47e7-8003-681b254a5e30.png" width="350" height="350">
 </p>
 
 ### En lo relacionado a la programación, aun estoy aprendiendo a utilizar GitHub y otras herramientas, como Visual Studio Code o IntelliJ IDEA. Además estoy aprendiendo a manejar el lenguaje Kotlin, más adelante aprenderemos a usar Java y alguno más. También tengo conocimientos básicos de GIT a la hora de trabajar con ramas y repositorios remotos.
 <p align="center">
-  <img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png width=30>
-  <img src=https://cdn-icons-png.flaticon.com/512/25/25231.png width=30>
-  <img src=https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png width=30>
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png width=30>
-  <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png width=30>
+  <img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png width=700>
+  <img src=https://cdn-icons-png.flaticon.com/512/25/25231.png width=70>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png width=70>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png width=70>
+  <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png width=70>
 </p>
 
 ### Respecto a hobbies, a parte de los videojuegos, que me gustan un montón, también voy algunos días de la semana al gim, me gusta bastante el anime y el manga,y también  me gusta dibujar en digital(normalmente sobre los animes o mangas que veo). Por último, respecto a lo que me gustaría hacer en el futuro, mi trabajo más deseado es ser desarrollador de videojuegos para alguna de las compañias que más me gustan, como por ejemplo Capcom (ya que la franquicía de videojuegos de Resident Evil y de Devil May Cry son de mis favoritas) o Nintendo (ya que todos los juegos que he probado de Pokemon, Zelda, Kirbi y Metroid, me gustan mucho), en general, me gustaría poder aportar al proceso de creación de las compañías que han hecho los juegos que me gustan, sería como un sueño cumplido.
