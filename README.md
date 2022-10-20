@@ -1,13 +1,13 @@
 # Índice
-1.[***Presentación***](#Presentación)
+1.[***Presentación***](#1.Presentación)
 
-2.[***Experiencia laboral***](#ExperienciaLaboral)
+2.[***Experiencia laboral***](#2.ExperienciaLaboral)
 
-3.[***Wakatime e historial de commits***](#TablaDeWakatimeEHistorialDeCommits)
+3.[***Wakatime e historial de commits***](#3.TablaDeWakatimeEHistorialDeCommits)
 
-4.[***Contactos***](#Contactos)
+4.[***Contactos***](#4.Contactos)
 
-5.[***Hasta pronto***](#Hastapronto)
+5.[***Hasta pronto***](#5.Hastapronto)
 # 1.Presentación
 Hola a todos, mi nombre es ***Iván Ronco Cebadera***😊. Soy un alumno del instituto [***IES Luis vives***](https://www.iesluisvives.es), en el cual estoy cursando actualmente el módulo ***1ºDAM***. 
 <p align="center">
