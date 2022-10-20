@@ -1,14 +1,14 @@
 # Índice
-- [***Presentación***](#1.Presentación)
+1. [***Presentación***](#Presentación)
 
-2.[***Experiencia laboral***](#2.ExperienciaLaboral)
+2. [***Experiencia laboral***](#ExperienciaLaboral)
 
-3.[***Wakatime e historial de commits***](#3.TablaDeWakatimeEHistorialDeCommits)
+3. [***Wakatime e historial de commits***](#TablaDeWakatimeEHistorialDeCommits)
 
-4.[***Contactos***](#4.Contactos)
+4. [***Contactos***](#Contactos)
 
-5.[***Hasta pronto***](#5.Hastapronto)
-# 1.Presentación
+5. [***Hasta pronto***](#Hastapronto)
+# Presentación
 Hola a todos, mi nombre es ***Iván Ronco Cebadera***😊. Soy un alumno del instituto [***IES Luis vives***](https://www.iesluisvives.es), en el cual estoy cursando actualmente el módulo ***1ºDAM***. 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/113459253/196044366-469367f3-e3e8-47e7-8003-681b254a5e30.png" width="250" height="250">
@@ -28,7 +28,7 @@ Respecto a hobbies, a parte de los videojuegos, que me gustan un montón, tambi�
     <img src="https://user-images.githubusercontent.com/113459253/196044319-59811555-d281-4563-a61a-2c38d0ca4437.gif" width="400px" height="300px">
 </p>
 
-# 2.Experiencia laboral
+# Experiencia laboral
 Como actualmente estoy en proceso de aprendizaje, no tengo ningún tipo de experiencia en el trabajo de programador..., pero con el tiempo voy a ir mejorando y me convertire en una buena opción para cualquiera que busque algún programador o desarrollador. 
 
 <p align="center">
@@ -36,17 +36,17 @@ Como actualmente estoy en proceso de aprendizaje, no tengo ningún tipo de exper
 </p>
 
 
-# 3.Tabla de wakatime e historial de commits
+# Tabla de wakatime e historial de commits
 <p align="center">
     <img src="https://wakatime.com/share/@f11c8048-330a-4e54-8654-1896e71ac8c8/f8de2cf9-b2e9-4f5b-9052-8211a2a61b0d.svg" width="400px" height="400px">
     <img src="https://wakatime.com/share/@f11c8048-330a-4e54-8654-1896e71ac8c8/24e76195-d948-4a48-916e-3beebb976d7b.svg" width="400px" height="400px">
 </p>
 
-# 4.Contactos
+# Contactos
  
 [![imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0isBhh4GH3aDi2vho5wZRPljuOtASGoHo_ibBh96Ojn75eXxZf1SbgFLXvpTKMPstVo&usqp=CAU)](https://www.linkedin.com/in/iván-ronco-cebadera-1590bb250/)
 
-# 5.Hasta pronto
+# Hasta pronto
 <p align="center">
     <img src="https://user-images.githubusercontent.com/113459253/196044388-6ca6f93d-1067-4f48-8c4c-c0233dac56f5.gif" width="650px" height="450px">
 </p>
