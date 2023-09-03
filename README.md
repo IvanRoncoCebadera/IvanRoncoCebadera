@@ -19,11 +19,13 @@
 
   Programing languages:
 
-  <img src=https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png width=70>
-  <img src=https://i.blogs.es/6091fa/java/1366_2000.jpg 
-  width=100>
-  <img src=https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png width=125>
-  <img src=https://cms.rootstack.com/sites/default/files/inline-images/Python-Symbol_0.png width=120>
+  <p align="center">
+      <img src=https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png width=70>
+      <img src=https://i.blogs.es/6091fa/java/1366_2000.jpg 
+      width=100>
+      <img src=https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png width=125>
+      <img src=https://cms.rootstack.com/sites/default/files/inline-images/Python-Symbol_0.png width=120>
+  </p>
 
   Technologies:
 
