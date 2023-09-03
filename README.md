@@ -29,18 +29,22 @@
 
   Technologies:
 
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png width=70>
-  <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png width=70>
-  <img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png width=70>
-  <img src=https://cdn-icons-png.flaticon.com/512/25/25231.png width=70>
-
-  Other stuff:
+  <p align="center">
+      <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png width=70>
+      <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png width=70>
+      <img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png width=70>
+      <img src=https://cdn-icons-png.flaticon.com/512/25/25231.png width=70>
+  </p>
   
-  <img src=https://cms.rootstack.com/sites/default/files/inline-images/23-237381_java-html-language-logo-png-transparent-png.png width=120>
-  <img src = https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png width=70>
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXN78w7WK01a0cJuttAi6CkUE9ldH0OeGBzGuJXLx0q0JeYjP_0532DFKD7cjqxuLz9RE&usqp=CAU width=120>
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png width=60>
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png width=120>
+  Other stuff:
+
+  <p align="center">
+      <img src=https://cms.rootstack.com/sites/default/files/inline-images/23-237381_java-html-language-logo-png-transparent-png.png width=120>
+      <img src = https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png width=70>
+      <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXN78w7WK01a0cJuttAi6CkUE9ldH0OeGBzGuJXLx0q0JeYjP_0532DFKD7cjqxuLz9RE&usqp=CAU width=120>
+      <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png width=60>
+      <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png width=120>
+  </p>
 
 </p>
 
