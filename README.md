@@ -9,7 +9,7 @@
 
 5. [***Goodbye***](#Goodbye)
 # Presentation
-### Hello everyone, my name is ***Iván Ronco Cebadera***😊. I'm an student from [***IES Luis vives***](https://www.iesluisvives.es), institute where I'm currently studying the course of ***2ºDAM***. 
+### Hello everyone, my name is ***Iván Ronco Cebadera***😊. I'm an student from [***IES Luis vives***](https://www.iesluisvives.es), highschool where I'm currently studying the course of ***2ºDAM***. 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/113459253/196044366-469367f3-e3e8-47e7-8003-681b254a5e30.png" width="350" height="350">
 </p>
