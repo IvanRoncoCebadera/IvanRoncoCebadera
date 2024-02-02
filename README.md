@@ -56,7 +56,7 @@
 
 # Job experience
 ### As I am currently in the learning process, I do not have any experience in working as a programmer..., but over time I will improve and become a good option for anyone looking for a programmer or developer.
-### Also I'm looking forward to start working during the practice months I'll have when I finished studying.
+### Also I'm looking forward to start working during the practice months I'll have once I have finished studying.
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/113459253/196044443-27a6a819-cc43-433f-8df7-5bb4188414a3.png" width="600px" height="350px">
